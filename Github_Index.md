@@ -16,4 +16,6 @@
 |:-:|:-------:|:----:|:-------:|
 | 1 | Staff | [>](https://www.udio.com/creators/Staff)
 | 2 | ScottieB | [>](https://www.udio.com/creators/ScottieB) | <img height="80" src="https://pbs.twimg.com/profile_images/1400290646313799681/w7wi17qs_normal.jpg"/>
+| 3 | Black Hole Music | [>](https://www.udio.com/creators/Black%20Hole%20Music) | <img height="80" src="https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/806b48fc-2ac2-4c28-cd73-04e52e7aa100/public"/>
+| 4 | smithyommite | [>](https://www.udio.com/creators/smithyommite) | <img height="80" src="https://lh3.googleusercontent.com/a/ACg8ocL2185U32uDUmRFglQz7J21276tzB6cs1mzV6YBZy-UF_-rxPM=s96-c"/> |
 </html>
