@@ -4,7 +4,7 @@
 
 | # | Channel | Link | Profile | Domains |
 |:-:|:-------:|:----:|:-------:|:-------:|
-| 1 | AUTOMATIC1111 | [>](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | <img height="80" src="https://avatars.githubusercontent.com/u/20920490?v=4"/>
+| 1 | AUTOMATIC1111 | [>](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | <img height="80" src="https://avatars.githubusercontent.com/u/20920490?v=4"/> | huggingface.co
 | 2 | Stability AI | [>](https://github.com/Stability-AI/StableSwarmUI) | <img height="80" src="https://avatars.githubusercontent.com/u/100950301?s=200&v=4"/> | stability.ai
 | 3 | easydiffusion | [>](https://github.com/easydiffusion/easydiffusion) | <img height="80" src="https://avatars.githubusercontent.com/u/118806966?s=200&v=4"/> | easydiffusion.github.io
 | 4 | comfyanonymous | [>](https://github.com/comfyanonymous/ComfyUI) | <img height="80" src="https://avatars.githubusercontent.com/u/121283862?v=4"/> | www.comfy.org
