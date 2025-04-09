@@ -9,8 +9,9 @@
 | 3 | easydiffusion | [>](https://github.com/easydiffusion/easydiffusion) | <img height="80" src="https://avatars.githubusercontent.com/u/118806966?s=200&v=4"/> | easydiffusion.github.io
 | 4 | comfyanonymous | [>](https://github.com/comfyanonymous/ComfyUI) | <img height="80" src="https://avatars.githubusercontent.com/u/121283862?v=4"/> | www.comfy.org
 | 5 | Etched | [>](https://github.com/etched-ai/open-oasis) | <img height="80" src="https://avatars.githubusercontent.com/u/114662817?s=200&v=4"/> | www.decart.ai
+| 6 | name | >
 
-<h1>Udio Music Profiles</h1>
+<h1>Udio Music Profiles<h1>
 
 | # | Channel | Link | Profile |
 |:-:|:-------:|:----:|:-------:|
